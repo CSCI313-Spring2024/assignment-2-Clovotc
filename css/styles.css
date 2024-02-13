@@ -3,29 +3,56 @@ body
     font-size: 20px;
     margin-left: 10em;
     margin-right: 10em;
+
+    background-color: #12372A;
+}
+
+a
+{
+    color: white;
 }
 
 #biography
 {
-    background-color: purple;
+    background-color: #436850;
 }
 
 #schedule
 {
-    background-color: green;
+    background-color: #FBFADA;
+}
+
+#table_schedule
+{
+    background-color: #ADBC9F;
 }
 
 #websites
 {
-    background-color: purple;
+    background-color: #436850;
 }
 
 #movies
 {
-    background-color: green;
+    background-color: #ADBC9F;
 }
 
 #hobbies
 {
-    background-color: purple;
+    background-color: #FBFADA;
+}
+
+.table-striped>tbody>tr:nth-child(odd)>td
+{
+    background-color: #ADBC9F;
+}
+
+.table-striped>tbody>tr:nth-child(even)>td
+{
+    background-color: #FBFADA;
+}
+
+.table-striped>thead>tr:nth-child(odd)>th
+{
+    background-color: #ADBC9F;
 }
