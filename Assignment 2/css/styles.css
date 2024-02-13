@@ -1,0 +1,31 @@
+body
+{
+    font-size: 20px;
+    margin-left: 10em;
+    margin-right: 10em;
+}
+
+#biography
+{
+    background-color: purple;
+}
+
+#schedule
+{
+    background-color: green;
+}
+
+#websites
+{
+    background-color: purple;
+}
+
+#movies
+{
+    background-color: green;
+}
+
+#hobbies
+{
+    background-color: purple;
+}
